@@ -1,4 +1,4 @@
-## (✿◡‿◡)
+## ( *︾▽︾)
 
 	🔭 Currently developing Cirklo Project 🚀
 	🌱 Learning convolutional neural networks 🧠
