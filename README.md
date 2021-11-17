@@ -1,4 +1,4 @@
-### Hi! (●ˇ∀ˇ●)
+## Hi (●ˇ∀ˇ●)!
 
 	🔭 Currently developing Cirklo Project 🚀
 	🌱 Learning convolutional neural networks 🧠
